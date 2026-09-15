@@ -85,7 +85,6 @@ oop-bank-pandas/
 
 ## Output
 
-Here's the program running end to end — Part 1 is the OOP bank system,
-Part 2 is the pandas analysis:
+Here's the program running end to end
  ![Program output](output_screenshot.png)
 
